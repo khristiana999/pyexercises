@@ -24,20 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# # 1. In: A sentence from the user.
-# 2. Process: Change the sentence in four ways.
-# 3. Out: Four transformed sentences.
+# 1. In:
+# 2. Process:
+# 3. Out:
 # 4. My four transformations, and when each is useful:
-# - upper(): Makes all letters uppercase.
-# - lower(): Makes all letters lowercase.
-# - strip(): Removes spaces at the ends.
-# - replace(): Changes specific characters or words.
 
 
 # Your code below
-sentence = input("Enter a sentence: ")
-
-print(sentence.upper())
-print(sentence.lower())
-print(sentence.strip())
-print(sentence.replace("a", "e"))
